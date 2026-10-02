@@ -62,4 +62,3 @@ Results printed by the notebook are the authoritative results for the selected s
 ## Notes
 
 The notebook is designed to run as-is in Kaggle with a GPU, but CPU execution is supported for debugging. Training time and retrieval quality depend on the number of images, class balance, image resolution, and available accelerator.
-
